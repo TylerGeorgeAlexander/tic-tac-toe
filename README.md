@@ -1,3 +1,9 @@
+# Tic Tac Toe GAME
+## From the official react.js.org tutorial
+
+If running locally just use npm start
+So far this is only slightly modified with the CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
